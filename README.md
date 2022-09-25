@@ -4,7 +4,12 @@
 ### Android
 
 * Dependencies
- https://github.com/encorex32268/Dependencies
+    Project Gradle :
+    https://github.com/encorex32268/japanesenote/blob/master/build.gradle
+    ###
+    App Gradle:
+    https://github.com/encorex32268/japanesenote/blob/master/app/build.gradle
+    
 ###
 * MVVM-Project 
   * BananaCompany
