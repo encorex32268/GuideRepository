@@ -19,7 +19,7 @@
     https://github.com/encorex32268/JapanGameCenter
     
   * VocabularyNote (rotate,Room,Localspacing)
-    https://github.com/encorex32268/JapanGameCenter
+    https://github.com/encorex32268/VocabularyNote
     
 ###
 
