@@ -17,6 +17,10 @@
     ###
   * JapanGameCenter - (Google Map & Location)
     https://github.com/encorex32268/JapanGameCenter
+    
+  * VocabularyNote (rotate,Room,Localspacing)
+    https://github.com/encorex32268/JapanGameCenter
+    
 ###
 
 * JetpackCompose UI 
